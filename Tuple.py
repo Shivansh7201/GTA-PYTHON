@@ -15,4 +15,5 @@ print(type(t)) #<class 'tuple'>
 
 #  t.remove(10)----> AttributeError: 'tuple' object has no attribute 'remove'
 
-#-------> Tuple is the read only version of list
+#---NOTE----> { "Tuple is the read only version of list" }
+
