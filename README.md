@@ -1,9 +1,4 @@
-# GTA-PY- the ever green CONTENT ABOUT PYTHON
-
-
 # GTA-PYTHON
-
-![GTA-PYTHON Logo](link/to/your/logo.png)
 
 Welcome to GTA-PYTHON, your go-to Python library for Grand Theft Auto enthusiasts!
 
